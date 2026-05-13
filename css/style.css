@@ -194,6 +194,14 @@
             font-size: 1.2rem;
         }
         
+        .video-subtitle.mt {
+        margin-top: 60px;
+}
+        .video-single {
+        max-width: 800px; /* Ограничиваем ширину, чтобы не было слишком огромным */
+        margin: 0 auto;   /* Центрируем блок по горизонтали */
+        width: 100%;
+}
         .video-grid {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
