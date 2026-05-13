@@ -16,7 +16,7 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    color: var(--text-dark);
+    color: var(--text-purple);
     background-color: var(--bg-light);
     background-image: 
     linear-gradient(rgba(99, 102, 241, 0.05) 1px, transparent 1px),
