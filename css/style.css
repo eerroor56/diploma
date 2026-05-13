@@ -395,7 +395,7 @@ footer {
     justify-content: center;
     cursor: pointer;
     box-shadow: 0 4px 15px rgba(99, 102, 241, 0.4);
-    opacity: 0; /* Скрыта по умолчанию */
+    opacity: 0;
     visibility: hidden;
     transition: all 0.3s ease;
     z-index: 1001;
