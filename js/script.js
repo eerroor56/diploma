@@ -38,7 +38,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 });
 });
 
-// Логика кнопки "Наверх"
+// Логика кнопки Наверх
 const scrollTopBtn = document.getElementById('scrollTopBtn');
 
 window.addEventListener('scroll', () => {
@@ -66,3 +66,4 @@ window.addEventListener('scroll', function() {
         header.style.boxShadow = 'none';
     }
 });
+
